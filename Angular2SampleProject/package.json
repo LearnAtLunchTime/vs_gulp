@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "ASP.NET",
+  "private": true,
+  "devDependencies": {
+    "typescript": "1.8.10",
+    "bootstrap": "3.3.7",
+    "gulp-install": "0.6.0",
+    "lite-server": "2.2.2"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-beta.17",
+    "gulp": "3.9.1",
+    "gulp-clean": "0.3.2",
+    "gulp-typescript": "2.13.6",
+    "gulp-concat": "2.6.0",
+    "gulp-uglify": "2.0.0",
+    "gulp-notify": "2.2.0",
+    "gulp-ng-annotate": "2.0.0",
+    "gulp-rename": "1.2.2",
+    "gulp-watch": "4.3.9",
+    "typing": "0.1.9"
+  }
+}
